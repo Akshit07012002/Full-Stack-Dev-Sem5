@@ -1,8 +1,14 @@
 h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    color: white;
+}
+
+p{
+    color: white;
 }
 
 .my-container{
     text-align: center;
 }
+
